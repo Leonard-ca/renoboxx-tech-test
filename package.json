@@ -1,0 +1,9 @@
+{
+  "name": "renoboxx-tech-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/jobs.test.mjs",
+    "day": "node src/show-day.mjs"
+  }
+}
