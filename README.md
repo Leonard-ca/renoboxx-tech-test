@@ -6,7 +6,7 @@ Please share your **entire screen** and think out loud. We care more about how y
 
 1. **Questions** – [start here](slides/00-start.md)
 2. **Debugging** – below
-3. **Code review** – the open [pull request](../../pulls)
+3. **Code review** – the open [pull request](https://github.com/Leonard-ca/renoboxx-tech-test/pull/1)
 
 ---
 
